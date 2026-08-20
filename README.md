@@ -1,227 +1,202 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=200&section=header&text=Taniadeep%20Kaur&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Fresher%20Python%20Developer%20%7C%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Hi, I'm **Taniadeep Kaur**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+REST+APIs;Building+AI-Powered+Applications;Streamlit+%7C+OpenAI+API;AI+Resume+Analyzer+%7C+Real-World+Projects;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
-</a>
+### 🐍 Python Developer • 🤖 AI/ML Enthusiast • 💻 BCA Graduate
+
+**Building practical applications with Python, APIs & Artificial Intelligence.**
 
 <br/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-Fresher%20Python%20Developer-7DD3FC?style=for-the-badge&logo=python&logoColor=white"/>
+<a href="https://github.com/taniamehra006">
+  <img src="https://img.shields.io/badge/GitHub-141414?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/taniadeep-kaur-aab72641a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:taniamehra2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=taniamehra006&color=7DD3FC&style=flat-square&label=Profile+Views"/>
-<img src="https://img.shields.io/github/followers/taniamehra006?label=Followers&style=flat-square&color=7DD3FC"/>
+![Profile Views](https://komarev.com/ghpvc/?username=taniamehra006\&style=for-the-badge\&color=blueviolet)
 
 </div>
 
-<br/>
+---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
-I'm **Taniadeep Kaur**, a BCA graduate and aspiring **Python Developer / AI Engineer** passionate about building practical applications using Python and modern AI technologies.
+I'm **Taniadeep Kaur**, a BCA graduate passionate about **Python development, Artificial Intelligence, and building real-world applications**.
 
-I enjoy turning ideas into working projects and continuously improving my skills through hands-on development.
+I enjoy learning by building projects and turning ideas into practical software.
+
+Currently, I'm focused on strengthening my skills in **Python, AI/ML, APIs, and backend development** while looking for opportunities to start my career as a Python Developer.
 
 ```python
-taniadeep = {
-    "name": "Taniadeep Kaur",
-    "role": "Fresher Python Developer",
-    "education": "BCA Graduate",
-    "focus": [
+class Taniadeep:
+
+    name = "Taniadeep Kaur"
+    role = "Python Developer"
+    education = "BCA Graduate"
+
+    interests = [
         "Python Development",
         "Artificial Intelligence",
-        "Machine Learning"
-    ],
-    "skills": [
-        "Python",
-        "SQL",
-        "REST APIs",
-        "Streamlit",
-        "OpenAI API",
-        "MySQL",
-        "Git & GitHub"
-    ],
-    "current_project": "AI Resume Analyzer",
-    "status": "Open to Full-Time Opportunities"
-}
+        "Machine Learning",
+        "API Integration",
+        "Backend Development"
+    ]
+
+    currently_building = "AI-powered applications"
+    looking_for = "Python Developer Opportunities"
 ```
 
 ---
 
-## 🚀 Featured Project
+## 🧠 What I Work With
 
-### 🤖 AI Resume Analyzer
+### Programming
 
-An AI-powered resume analysis application built with **Python, Streamlit, and OpenAI API**.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-The application analyzes resumes, provides an **ATS-friendly score**, identifies areas for improvement, and helps users create better job applications.
+### Web & Backend
 
-### ✨ Key Features
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
 
-* 📄 Resume upload and analysis
-* 🎯 ATS-friendly resume scoring
-* 🤖 AI-powered improvement suggestions
-* 💼 Job preference analysis
-* ✍️ AI-generated cover letters
-* 📊 Interactive results and visualizations
-* 🔐 API-based AI integration
+### AI & Data
 
-### 🛠️ Technologies Used
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square\&logo=plotly\&logoColor=white)
 
-| Category        | Technology   |
-| --------------- | ------------ |
-| Programming     | Python       |
-| Frontend / UI   | Streamlit    |
-| AI              | OpenAI API   |
-| Visualization   | Plotly       |
-| Database        | MySQL        |
-| Version Control | Git & GitHub |
-| APIs            | REST APIs    |
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+
+---
+
+# ⭐ Featured Project
+
+## 🤖 AI Resume Analyzer
+
+> **An AI-powered application that helps job seekers analyze and improve their resumes.**
+
+I built this project to combine **Python development with modern AI technologies** and solve a practical problem faced by job seekers.
+
+### ✨ Features
+
+| Feature            | Description                                     |
+| ------------------ | ----------------------------------------------- |
+| 📄 Resume Analysis | Upload and analyze a resume                     |
+| 🎯 ATS Score       | Get an ATS-friendly resume score                |
+| 🤖 AI Suggestions  | Receive personalized improvement suggestions    |
+| 💼 Job Preferences | Analyze the resume according to job preferences |
+| ✍️ Cover Letter    | Generate an AI-powered cover letter             |
+| 📊 Visual Results  | View results through interactive visualizations |
+
+### 🛠️ Built With
+
+**Python** · **Streamlit** · **OpenAI API** · **Plotly**
 
 <br/>
 
 <div align="center">
 
 <a href="https://github.com/taniamehra006/AI-Resume-Analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=taniamehra006&repo=AI-Resume-Analyzer&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&bg_color=0D1117" alt="AI Resume Analyzer"/>
+<img src="https://img.shields.io/badge/📂%20View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/taniamehra006/AI-Resume-Analyzer">
-  <img src="https://img.shields.io/badge/View%20Source%20Code-GitHub-7DD3FC?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-</a>
-
-<!-- Replace the URL below with your Streamlit deployment URL -->
+<!-- Replace # with your actual Streamlit deployment URL -->
 
 <a href="#">
-  <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-7DD3FC?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
+<img src="https://img.shields.io/badge/🚀%20Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+# 📌 What I'm Currently Learning
 
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-</p>
-
-### 🤖 AI & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" />
-</p>
-
-### 🔧 Tools & Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
+```text
+Python Development       ████████████████████░  Advanced
+AI & Machine Learning    ███████████████░░░░░░  Growing
+REST APIs                ████████████████░░░░░  Strong
+Backend Development      █████████████░░░░░░░░  Growing
+Natural Language Process ██████████░░░░░░░░░░░  Learning
+```
 
 ---
 
-## 📚 Currently Learning
+# 🎯 My Career Direction
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🐍 Advanced Python Development
-* 🧠 Natural Language Processing
-* 🔌 API Integration
-* 🌐 Backend Development
-* ☁️ AI Application Deployment
+I'm working toward becoming a strong **Python Developer → AI Engineer**.
+
+### My focus:
+
+🔹 Build more real-world Python applications
+🔹 Strengthen backend development skills
+🔹 Explore AI & Machine Learning
+🔹 Learn Natural Language Processing
+🔹 Improve problem-solving and DSA
+🔹 Contribute to meaningful software projects
+
+### 💼 Open To
+
+**Full-Time Python Developer | Junior Python Developer | AI/ML Opportunities**
+
+📍 Chandigarh • Mohali • Remote
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=taniamehra006&show_icons=true&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&bg_color=0D1117&icon_color=7DD3FC" alt="GitHub Statistics" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=taniamehra006&show_icons=true&hide_border=true&theme=transparent&title_color=7DD3FC&icon_color=7DD3FC&text_color=9CA3AF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniamehra006&layout=compact&theme=nord&border_color=7DD3FC&title_color=7DD3FC&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniamehra006&layout=compact&hide_border=true&theme=transparent&title_color=7DD3FC&text_color=9CA3AF"/>
 
 </div>
+
+---
+
+# 🌱 Beyond Code
+
+I'm a strong believer in:
+
+> **Learn → Build → Fail → Improve → Repeat.**
+
+Every project is an opportunity to learn something new.
+
+My goal isn't just to write code —
+**it's to build useful things with it.** 🚀
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### I'm always open to learning, collaborating and discussing opportunities.
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=taniamehra006&theme=nord&border=7DD3FC&background=0D1117&ring=7DD3FC&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=taniamehra006&no-frame=true&no-bg=true&theme=nord&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=taniamehra006&theme=react-dark&hide_border=true&color=7DD3FC&line=7DD3FC&point=ffffff&area=true&area_color=7DD3FC" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🎯 Career Goals
-
-I am currently looking for opportunities where I can:
-
-* 🚀 Work as a **Python Developer**
-* 🤖 Build real-world **AI-powered applications**
-* 📚 Learn from experienced developers
-* 💡 Solve practical business problems
-* 🌱 Grow into an **AI Engineer**
-
-**Open to Full-Time Python Developer opportunities in Chandigarh / Mohali and remote opportunities.**
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
 <a href="https://www.linkedin.com/in/taniadeep-kaur-aab72641a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Taniadeep%20Kaur-7DD3FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:taniamehra2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-taniamehra2006%40gmail.com-7DD3FC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<a href="https://github.com/taniamehra006">
-  <img src="https://img.shields.io/badge/GitHub-taniamehra006-7DD3FC?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -232,8 +207,6 @@ I am currently looking for opportunities where I can:
 
 ### 💙 Thanks for visiting my profile!
 
-**"Build. Learn. Improve. Repeat." 🚀**
+**Keep Building. Keep Learning. Keep Growing. 🚀**
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7DD3FC&height=120&section=footer" width="100%"/>
