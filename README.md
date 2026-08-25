@@ -69,7 +69,7 @@ class Developer:
 
     role = "Python Developer"
 
-    education = "BCA Graduate"
+    education = "MCA Graduate"
 
     passion = [
         "Python",
