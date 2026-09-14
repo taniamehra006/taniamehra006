@@ -4,7 +4,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=🐍+Python+Developer;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Building+Real-World+AI+Applications;💡+Turning+Ideas+Into+Working+Projects;✨+Always+Learning+%26+Building" alt="Typing Animation"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&duration=2800&pause=700&color=00F5FF&center=true&vCenter=true&width=800&lines=Python+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Real-World+AI+Applications;Turning+Ideas+Into+Working+Projects;Always+Learning+%26+Building" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
@@ -14,10 +16,6 @@
 
 <a href="https://www.linkedin.com/in/taniadeep-kaur-aab72641a/">
 <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:taniamehra2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -69,7 +67,7 @@ class Developer:
 
     role = "Python Developer"
 
-    education = "MCA Graduate"
+    education = "MCA Student"
 
     passion = [
         "Python",
@@ -189,9 +187,7 @@ Displays analysis through clean visualizations.
 <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-00F5FF?style=for-the-badge&logo=github&logoColor=111827"/>
 </a>
 
-<!-- Replace # with your actual Streamlit URL -->
-
-<a href="#">
+<a href="https://ai-resume-analyzer-2kseuerqvzzxrrvjydjy5z.streamlit.app/">
 <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-EC4899?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </a>
 
@@ -297,10 +293,6 @@ AI & Machine Learning
 
 <a href="https://www.linkedin.com/in/taniadeep-kaur-aab72641a/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:taniamehra2006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Let's%20Talk-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/taniamehra006">
