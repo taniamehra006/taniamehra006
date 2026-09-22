@@ -247,15 +247,35 @@ AI & Machine Learning
 
 # 📊 **GITHUB ACTIVITY**
 
+### 🚀 Building, committing & learning every day
+
 <br/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=taniamehra006&show_icons=true&hide_border=true&theme=transparent&title_color=00F5FF&icon_color=EC4899&text_color=C9D1D9"/>
+<a href="https://github.com/taniamehra006">
+<img src="https://img.shields.io/badge/GitHub-View%20My%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniamehra006&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED&text_color=C9D1D9"/>
+<a href="https://github.com/taniamehra006?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20Projects-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/taniamehra006/taniamehra006/commits/main">
+<img src="https://img.shields.io/badge/Activity-View%20Commits-00A8FF?style=for-the-badge&logo=git&logoColor=white" alt="GitHub Activity"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=taniamehra006&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=EC4899&currStreakLabel=7C3AED&sideLabels=C9D1D9&dates=9CA3AF"/>
+<a href="https://github.com/taniamehra006/AI-Resume-Analyzer">
+<img src="https://img.shields.io/github/last-commit/taniamehra006/AI-Resume-Analyzer?style=for-the-badge&label=AI%20Resume%20Analyzer%20Last%20Commit" alt="AI Resume Analyzer Last Commit"/>
+</a>
+
+<a href="https://github.com/taniamehra006/Portfolio">
+<img src="https://img.shields.io/github/last-commit/taniamehra006/Portfolio?style=for-the-badge&label=Portfolio%20Last%20Commit" alt="Portfolio Last Commit"/>
+</a>
+
+<br/><br/>
+
+### 💻 Explore my repositories to see what I'm building.
 
 </div>
 
