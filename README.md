@@ -42,7 +42,7 @@
 <tr>
 <td width="55%">
 
-### 👩‍💻 Hey, I'm Taniadeep!
+### 👩‍💻 Hey, I'm Taniadeep kaur!
 
 I'm a **BCA graduate** and aspiring **Python Developer / AI Engineer** passionate about creating practical applications using Python and modern AI technologies.
 
